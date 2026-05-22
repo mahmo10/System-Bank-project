@@ -1,4 +1,4 @@
 ﻿  P-SystemBAnk.cpp
-C:\algorithms\P-SystemBAnk\P-SystemBAnk.cpp(111,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\algorithms\P-SystemBAnk\P-SystemBAnk.cpp(898,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  P-SystemBAnk.vcxproj -> C:\algorithms\P-SystemBAnk\x64\Debug\P-SystemBAnk.exe
+C:\algorithms\P-SystemBank\P-SystemBAnk.cpp(111,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\algorithms\P-SystemBank\P-SystemBAnk.cpp(898,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  P-SystemBAnk.vcxproj -> C:\algorithms\P-SystemBank\x64\Debug\P-SystemBAnk.exe
