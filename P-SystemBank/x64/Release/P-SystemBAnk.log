@@ -1,0 +1,8 @@
+﻿  P-SystemBAnk.cpp
+C:\algorithms\P-SystemBAnk\P-SystemBAnk.cpp(87,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\algorithms\P-SystemBAnk\P-SystemBAnk.cpp(526,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 426 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  P-SystemBAnk.vcxproj -> C:\algorithms\P-SystemBAnk\x64\Release\P-SystemBAnk.exe

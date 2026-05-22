@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P-SystemBAnk.vcxproj" Id="b608f9bd-4d3d-42c9-ad52-7ef1bfecf960" />
+</Solution>
